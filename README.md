@@ -54,3 +54,11 @@ Email Me 👉 ✉️ **helprupakrc@gmail.com** For Collaboration/Project or Anyt
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rupakrc9776&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<div align="center">
+  <i>🌌 Destiny always demands patience 🌌@rupakchatterjee_copyright</i>
+</div>
