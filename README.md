@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="2000" height="600" alt="Black Minimalist Linkedin Banner" src="https://github.com/user-attachments/assets/8a833e45-aa17-412d-b963-e3e0f0b7b517" />
+<img width="1584" height="396" alt="Black and Gold Bold Legal Advisor LinkedIn Banner" src="https://github.com/user-attachments/assets/4536f372-6336-4a6e-a839-375ca5291485" />
   
 #  Hi 👋, I'm Rupak
 ### A Electrical Engineering Student || Open Source Contributor || Tech Enthusiast ###
