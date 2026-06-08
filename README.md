@@ -16,7 +16,7 @@ Email Me 👉 ✉️ **helprupakrc@gmail.com** For Collaboration/Project or Anyt
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🌐 Socials:
+## 🌐 Socials(Connect Now):
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1232358668549488660) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/chatterjeerupak9776) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupakk_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupak-chatterjee-293bba2a6) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Rupak9776) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RupakRC97) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:helprupakrc@gmail.com) 
 
 <!-- Snake Game Repo View -->
